@@ -1,3 +1,7 @@
-print("Test file") --"this code is fron dev 1"
-
-Print("THis code is edit from github") --"this code is from dev2"
+print("Hello")
+print("Line1")
+print("Line2")
+print("Line3")
+print("Line4")
+print("Line5")
+print("Line6")
