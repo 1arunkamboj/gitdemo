@@ -1,7 +1,0 @@
-print("Hello")
-print("Line1")
-print("This is changed by dev 2 Line2")
-print("Line3")
-print("Line4")
-print("Line5")
-print("Line6")
